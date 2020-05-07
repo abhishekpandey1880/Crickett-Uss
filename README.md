@@ -8,6 +8,6 @@
 * Search for "TOD.cpp".
      #### OR
 * You can move "TOD.cpp" to "\TURBOC3\BIN" and then search for "TOD.cpp".
-* Press ctrl+f9.
+* RUN or Press ctrl+f9.
 
 ## ENJOY  😄
